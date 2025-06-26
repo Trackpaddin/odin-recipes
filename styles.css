@@ -48,6 +48,13 @@ div {
     text-align: justify;
 }
 
+img {
+    display: block;
+    margin: 20px auto;
+    height: 300px;
+    width: 300px;
+}
+
 .recipe-list {
     font-size: large;
 }
